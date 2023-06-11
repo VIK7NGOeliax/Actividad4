@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be50ce79-4672-4c75-9d06-42c907d1dfa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddressBook1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddressBook2.java" afterDir="false" />
+    <list default="true" id="be50ce79-4672-4c75-9d06-42c907d1dfa5" name="Changes" comment="Actividad 4 Directorio Telefonico.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686486819104</updated>
-      <workItem from="1686486820189" duration="5354000" />
+      <workItem from="1686486820189" duration="5970000" />
     </task>
+    <task id="LOCAL-00001" summary="Actividad 4 Directorio Telefonico.">
+      <created>1686526606715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686526606716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actividad 4 Directorio Telefonico." />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad 4 Directorio Telefonico." />
   </component>
 </project>
